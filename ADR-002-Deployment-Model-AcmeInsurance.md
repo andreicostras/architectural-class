@@ -41,6 +41,8 @@ Cons
 
 ## Decision
 
+Final option is Cloudhub (1 OR 2)
+
 [State the decision that was made, including any options that were considered and rejected.]
 
 ## Status
