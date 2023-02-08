@@ -1,4 +1,4 @@
-# ADR [001]: KPIs for Acme Insurance
+# ADR 001: KPIs for Acme Insurance
 
 ## Context
 
