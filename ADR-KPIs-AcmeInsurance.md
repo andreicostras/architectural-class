@@ -20,7 +20,7 @@ KPIs for logs:
 At least 3 months retention period
 Source
 Time
-
+Aggregate logging (posibility to search across logs from multiple applications)
 
 [State the decision that was made, including any options that were considered and rejected.]
 
