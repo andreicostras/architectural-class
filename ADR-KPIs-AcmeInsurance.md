@@ -1,10 +1,12 @@
-# ADR [number]: [Title]
+# ADR [001]: KPIs for Acme Insurance
 
 ## Context
 
 We require all applications in Runtime to be monitored.
 In addition to this, we require logs from applications to be reachable easier for troubleshooting.
 
+Group:
+Wihtout KPIs the project will have no direction or way to measure its success.
 [Provide context for the decision, including any constraints or requirements that influenced the decision.]
 
 ## Decision
@@ -22,10 +24,24 @@ Source
 Time
 Aggregate logging (posibility to search across logs from multiple applications)
 
+
+Group:
+KPIs
+
+Key Performance Indicators
+1. Availability -> Uptime of APIs, % per month/week/day. (Quality), hours x month an API is up.
+2. Resource consumption (vCores consumption) -> $ Budget/Money
+3. Physical resources Utilization (CPU, Memory, H Disk, IO Network), -> $/Quality
+4. Development Time (Time to Market), Lead Time for Changes
+5. Number of Consumers -> Customers/Integrators/3rd Party companies
+6. Reusability per Asset/API
+
+
+
 [State the decision that was made, including any options that were considered and rejected.]
 
 ## Status
-
+Proposed (8 Feb 2023)
 [Indicate the current status of the decision, such as "proposed", "accepted", "rejected", "superseded", or "obsolete".]
 
 ## Consequences
